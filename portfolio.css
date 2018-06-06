@@ -1,0 +1,56 @@
+
+.me {
+  border-radius: 30em;
+}
+
+body {
+  text-align: center;
+  background-image: url('prog.jpg');
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+h3 {
+  color: #23adb5;
+}
+#bio {
+  display: flex;
+  text-align: center;
+}
+.left {
+  flex: 1;
+  /* border: solid 3px; */
+  border-radius: 100px;
+  margin: 10px;
+  padding: 20px;
+}
+.center {
+  flex: 1;
+  /* border: solid 3px; */
+  border-radius: 100px;
+  margin: 10px;
+  padding: 20px;
+}
+
+.right {
+  flex: 1;
+  /* border: solid 3px; */
+  border-radius: 100px;
+  margin: 10px;
+  padding: 20px;
+}
+
+#info {
+  display: flex;
+}
+.hk {
+  flex: 2;
+}
+.gh {
+  flex: 2;
+}
+.lk {
+  flex: 2;
+}
