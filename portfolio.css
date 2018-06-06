@@ -21,7 +21,6 @@ h3 {
 }
 .left {
   flex: 1;
-  /* border: solid 3px; */
   border-radius: 100px;
   margin: 10px;
   padding: 20px;
